@@ -1,0 +1,1 @@
+ALTER TABLE public.quotations ADD COLUMN IF NOT EXISTS brand_selections jsonb NOT NULL DEFAULT '{}'::jsonb;

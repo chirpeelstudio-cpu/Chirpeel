@@ -1,0 +1,128 @@
+Sl,Category,Section,Item description,Recommended brands,Unit,Tirupur low rate (₹),Tirupur high rate (₹),Vendor type
+1,wood,Plywood & boards,BWR 18mm 8x4,Greenply Greenply / Century Sainik / Mayur,sheet,2350,2950,core_material
+2,wood,Plywood & boards,BWP 710 18mm 8x4,Greenply / Century Architect / Kitply,sheet,3150,3950,core_material
+3,wood,Plywood & boards,BWP 19mm 8x4,Greenply / Century / Kitply,sheet,3450,4250,core_material
+4,wood,Plywood & boards,Marine 18mm 8x4,Anchor / Sharon,sheet,3850,4750,core_material
+5,wood,Plywood & boards,MR 18mm commercial,Mayur / Sainik / local,sheet,1650,2150,core_material
+6,wood,Plywood & boards,MDF 18mm pre-laminated 1S,Action TESA / Greenpanel,sheet,1850,2450,core_material
+7,wood,Plywood & boards,HDHMR 18mm,Action TESA HDHMR / Century,sheet,2950,3650,core_material
+8,wood,Plywood & boards,HDF 18mm,Greenpanel / Action TESA,sheet,2350,2850,core_material
+9,wood,Plywood & boards,Teak veneer 19mm,Greenply / Centuryply natural,sheet,4850,7200,core_material
+10,wood,Plywood & boards,Walnut veneer 19mm,Centuryply / Greenply,sheet,5500,8500,core_material
+11,wood,Plywood & boards,BWP 6mm back panel,Greenply / Century,sheet,1450,1850,core_material
+12,wood,Plywood & boards,BWP 12mm 8x4,Greenply / Century,sheet,2350,2850,core_material
+13,wood,Plywood & boards,BWP 25mm 8x4,Greenply / Century,sheet,4350,5250,core_material
+14,wood,Laminates & shutters,0.8mm laminate solid,Merino / Greenlam / Royale Touche,sheet,980,1450,laminate
+15,wood,Laminates & shutters,0.8mm laminate texture,Merino / Greenlam / Sundek,sheet,1180,1650,laminate
+16,wood,Laminates & shutters,1mm laminate decorative,Merino / Greenlam Decotone,sheet,1450,1950,laminate
+17,wood,Laminates & shutters,1mm laminate woodgrain,Merino / Greenlam / Royale Touche,sheet,1380,1850,laminate
+18,wood,Laminates & shutters,Acrylic 4mm gloss shutter,Senosan / Acrylux / Merino MikaPro,sheet,4500,6200,laminate
+19,wood,Laminates & shutters,PU pre-finished shutter,Greenlam Mikasa / Stylam Volcano,sheet,5800,7500,laminate
+20,wood,Laminates & shutters,Fluted laminate panel,Greenlam Decowood Fluted / Merino,sheet,2850,3950,laminate
+21,wood,Laminates & shutters,Membrane shutter (PVC),RVK / Profile,sqft,320,480,laminate
+22,wood,Laminates & shutters,Backing 0.6mm balancer,Merino / Greenlam,sheet,580,850,laminate
+23,wood,Laminates & shutters,Mica MR 0.7mm,Merino / Sundek,sheet,780,1080,laminate
+24,wood,Hardware (Hettich / Hafele),Hinge soft-close concealed,Hettich Sensys / Hafele Mini,nos,230,380,hardware
+25,wood,Hardware (Hettich / Hafele),Hinge clip-on standard,Hettich Intermat / Hafele,nos,110,180,hardware
+26,wood,Hardware (Hettich / Hafele),"Drawer channel ball-bearing 18""",Ebco / Hettich KA,pair,280,480,hardware
+27,wood,Hardware (Hettich / Hafele),"Drawer channel soft-close 18""",Hettich Quadro / Blum Tandem,pair,850,1850,hardware
+28,wood,Hardware (Hettich / Hafele),Tandem box drawer 500mm,Hettich Innotech / Blum Tandembox,set,2850,6500,hardware
+29,wood,Hardware (Hettich / Hafele),Cutlery organiser 600mm,Hettich Cargo / Hafele,nos,2850,4800,hardware
+30,wood,Hardware (Hettich / Hafele),Plate basket 600mm chrome,Hettich / Ebco,nos,1850,2950,hardware
+31,wood,Hardware (Hettich / Hafele),Bottle pull-out 200mm,Hettich / Hafele,nos,2450,3850,hardware
+32,wood,Hardware (Hettich / Hafele),Tall unit pull-out 6 shelf,Hettich Cargo Tall / Hafele,set,12500,22500,hardware
+33,wood,Hardware (Hettich / Hafele),Magic corner unit,Hettich Magic Corner / Hafele LeMans,set,14500,28500,hardware
+34,wood,Hardware (Hettich / Hafele),Lift-up flap fitting,Hettich Free Fold / Blum Aventos,set,6500,14500,hardware
+35,wood,Hardware (Hettich / Hafele),Sliding wardrobe top track 8ft,Hettich Top Line L / Hafele,set,8500,18500,hardware
+36,wood,Hardware (Hettich / Hafele),Wardrobe handle profile,Ebco / Dorma Senso,rft,220,480,hardware
+37,wood,Hardware (Hettich / Hafele),Cabinet handle U-type,Ebco / Hafele,nos,95,280,hardware
+38,wood,Hardware (Hettich / Hafele),Knob round metal,Ebco / Hafele,nos,75,220,hardware
+39,wood,Hardware (Hettich / Hafele),Auto LED sensor switch,Hettich / Philips strip,nos,850,1450,hardware
+40,wood,Hardware (Hettich / Hafele),Hanger rod ED chrome 3ft,Ebco / Hafele,nos,380,580,hardware
+41,wood,Hardware (Hettich / Hafele),Lock pin tumbler cabinet,Ebco / Hafele,nos,280,480,hardware
+42,wood,Hardware (Hettich / Hafele),Wardrobe lock,Ebco / Godrej / Hafele,nos,320,580,hardware
+43,wood,Hardware (Hettich / Hafele),Soft-close door damper,Hafele / Hettich,nos,380,580,hardware
+44,wood,Carpentry labour & finishing,Carpenter labour — wardrobe sqft,Local skilled,sqft,220,380,carpenter
+45,wood,Carpentry labour & finishing,Carpenter labour — TV unit sqft,Local skilled,sqft,240,420,carpenter
+46,wood,Carpentry labour & finishing,Carpenter labour — kitchen rft,Local skilled,rft,1450,2850,carpenter
+47,wood,Carpentry labour & finishing,Carpenter labour — false ceiling sqft,Local skilled,sqft,35,65,carpenter
+48,wood,Carpentry labour & finishing,Polish — melamine spray,MRF / ICA / Wudfin,sqft,75,110,carpenter
+49,wood,Carpentry labour & finishing,Polish — PU spray (white/glossy),MRF / ICA / Sirca,sqft,180,320,carpenter
+50,wood,Carpentry labour & finishing,Polish — open-grain matte,ICA / Sirca,sqft,145,240,carpenter
+51,wood,Carpentry labour & finishing,Veneer pasting + sanding,Skilled veneer specialist,sqft,95,165,carpenter
+52,wood,Carpentry labour & finishing,Edge banding 0.8mm,Rehau / Polyplast,rft,18,32,carpenter
+53,wood,Carpentry labour & finishing,Site-installation labour,Carpenter team,day,850,1450,carpenter
+54,false_ceiling,False ceiling systems,POP plain false ceiling,Saint-Gobain / Asian,sqft,65,95,carpenter
+55,false_ceiling,False ceiling systems,POP designer with cove,Saint-Gobain,sqft,85,125,carpenter
+56,false_ceiling,False ceiling systems,Gypsum board 12.5mm regular,Gyproc Habito / India Gypsum,sqft,75,110,carpenter
+57,false_ceiling,False ceiling systems,Gypsum board moisture-resistant,Gyproc Aquabloc,sqft,95,145,carpenter
+58,false_ceiling,False ceiling systems,Gypsum tile 600x600 grid,Armstrong / Saint-Gobain,sqft,85,145,carpenter
+59,false_ceiling,False ceiling systems,Cove plaster only perimeter,POP,rft,55,95,carpenter
+60,false_ceiling,False ceiling systems,LED cove cuts (electrical only),Site-cut,rft,35,65,carpenter
+61,false_ceiling,False ceiling systems,Wood band ceiling teak veneer,Greenply / Centuryply,sqft,380,580,carpenter
+62,false_ceiling,False ceiling systems,PVC false ceiling panels,Local / Marvel,sqft,95,145,other
+63,false_ceiling,False ceiling systems,Calcium silicate board,Saint-Gobain Hilux,sqft,145,195,carpenter
+64,false_ceiling,False ceiling systems,Wood-effect WPC ceiling,WPC Trent / local,sqft,145,220,other
+65,false_ceiling,False ceiling systems,MS / GI framing system,Site-fabricated,sqft,35,55,carpenter
+66,false_ceiling,False ceiling systems,Putty + paint finish ceiling,Birla + Asian,sqft,18,32,painter
+67,lighting,Light fixtures & LEDs,LED downlight round 4 inch 9W,Wipro Garnet / Philips Astra,nos,280,450,electrician
+68,lighting,Light fixtures & LEDs,LED downlight square 4 inch 12W,Wipro / Philips,nos,320,520,electrician
+69,lighting,Light fixtures & LEDs,LED panel surface 6 inch 18W,Wipro / Philips / Havells,nos,380,650,electrician
+70,lighting,Light fixtures & LEDs,LED COB spot 7W tiltable,Wipro / Philips,nos,450,850,electrician
+71,lighting,Light fixtures & LEDs,LED strip warm 5m roll,Philips / Syska / Wipro,rft,65,120,electrician
+72,lighting,Light fixtures & LEDs,LED strip RGB 5m,Philips / Wipro,rft,95,180,electrician
+73,lighting,Light fixtures & LEDs,LED profile aluminium recessed,Philips / Local,rft,145,280,electrician
+74,lighting,Light fixtures & LEDs,Pendant single drop,Philips / Jaquar / Marketplace,nos,1850,6500,appliance
+75,lighting,Light fixtures & LEDs,Pendant cluster 3-light,Designer / Anchor / Jaquar,set,4500,14500,appliance
+76,lighting,Light fixtures & LEDs,Chandelier crystal small,Jaquar / online,nos,12500,28500,appliance
+77,lighting,Light fixtures & LEDs,Wall sconce indoor,Philips / Havells,nos,850,2850,electrician
+78,lighting,Light fixtures & LEDs,Mirror light over vanity,Philips / Jaquar,nos,1850,3850,electrician
+79,lighting,Light fixtures & LEDs,Smart switch Wi-Fi 4G,Anchor Smart / Wipro Smart,nos,1850,3850,electrician
+80,lighting,Light fixtures & LEDs,Track light spot warm,Philips / Wipro,nos,850,1850,electrician
+81,lighting,Light fixtures & LEDs,Garden / balcony LED,Philips / Bajaj,nos,850,2850,electrician
+82,lighting,Light fixtures & LEDs,LED mirror cabinet,Jaquar / Hindware,nos,8500,18500,appliance
+83,lighting,Light fixtures & LEDs,Smart Hue starter,Philips Hue,set,14500,28500,appliance
+84,lighting,Light fixtures & LEDs,Cove driver 60W,Philips / Wipro,nos,850,1450,electrician
+85,lighting,Light fixtures & LEDs,Profile light cove driver,Philips / Wipro,nos,1450,2850,electrician
+86,lighting,Light fixtures & LEDs,LED tube 2ft / 4ft,Wipro / Philips,nos,280,580,electrician
+87,electrical,Electrical points & switchgear,5A light point copper 1.5mm,Polycab / Havells / Finolex,point,650,950,electrician
+88,electrical,Electrical points & switchgear,5A power point copper 1.5mm,Polycab / Havells / Finolex,point,750,1100,electrician
+89,electrical,Electrical points & switchgear,15A AC point 4mm copper,Polycab / Havells,point,1650,2350,electrician
+90,electrical,Electrical points & switchgear,16A geyser point 4mm,Polycab / Havells,point,1450,2150,electrician
+91,electrical,Electrical points & switchgear,MCB box + 6 + ELCB,Schneider / Legrand / Hager,set,7500,14500,electrician
+92,electrical,Electrical points & switchgear,Modular switch plate 6M,Anchor Roma Plus / Legrand Mylinc,nos,750,1450,electrician
+93,electrical,Electrical points & switchgear,Modular switch plate premium,Legrand Arteor / Schneider AvatarOn,nos,1450,2850,electrician
+94,electrical,Electrical points & switchgear,Modular plate luxury,Legrand Galion / Schneider Unica,nos,2850,4850,electrician
+95,electrical,Electrical points & switchgear,USB-C charging point,Anchor / Legrand,nos,1850,2850,electrician
+96,electrical,Electrical points & switchgear,Coaxial / HDMI TV point,D-Link / Anchor,point,1450,2450,electrician
+97,electrical,Electrical points & switchgear,CAT-6 LAN point,D-Link / AMP,point,1250,2250,electrician
+98,electrical,Electrical points & switchgear,Doorbell wireless / wired,Anchor / Bajaj,nos,1450,3850,electrician
+99,electrical,Electrical points & switchgear,Smart curtain motor track,Aqara / Yale,set,18500,38500,appliance
+100,electrical,Electrical points & switchgear,Smart fan 4 blade BLDC,Atomberg / Havells,nos,4500,8500,appliance
+101,electrical,Electrical points & switchgear,Inverter wiring + battery box,Microtek / Luminous,set,28500,65000,electrician
+102,electrical,Electrical points & switchgear,Solar wiring kit on-grid,Tata Solar / Luminous,kw,38500,58500,other
+103,electrical,Electrical points & switchgear,Earthing pit GI,Site-fabricated,nos,4500,8500,electrician
+104,electrical,Electrical points & switchgear,Light dimmer 400W,Anchor / Legrand,nos,850,1850,electrician
+105,electrical,Electrical points & switchgear,Fan regulator electronic,Anchor / Legrand,nos,250,580,electrician
+106,electrical,Electrical points & switchgear,Bell point,Polycab / Havells,point,480,750,electrician
+107,electrical,Electrical points & switchgear,Bedside reading light point,Polycab + Anchor,point,850,1450,electrician
+108,paint,Paints & finishes,Birla wallcare putty 2 coats,Birla White Wallcare,sqft,14,22,painter
+109,paint,Paints & finishes,Acrylic primer water-based,Asian PrimeR / Berger,sqft,5,9,painter
+110,paint,Paints & finishes,Tractor emulsion 2 coats,Asian Tractor / Berger Bison,sqft,12,18,painter
+111,paint,Paints & finishes,Apex weatherproof exterior,Asian Apex / Berger Weathercoat,sqft,32,48,painter
+112,paint,Paints & finishes,Royale Aspira interior premium,Asian Royale Aspira,sqft,18,28,painter
+113,paint,Paints & finishes,Royale Luxury Sheen Emulsion,Asian Royale Luxury,sqft,26,38,painter
+114,paint,Paints & finishes,Royale Health Shield,Asian Royale Health Shield,sqft,32,48,painter
+115,paint,Paints & finishes,Royale Play textured wall,Asian Royale Play,sqft,75,145,painter
+116,paint,Paints & finishes,Texture spray finish,Asian / Berger Silk Glamor,sqft,95,185,painter
+117,paint,Paints & finishes,Wallpaper paste + paper,Marshalls / 3M / Asian,sqft,145,480,other
+118,paint,Paints & finishes,Distemper economy,Asian Tractor distemper,sqft,8,14,painter
+119,paint,Paints & finishes,Enamel oil-based wood/metal,Asian Apcolite / Berger Luxol,sqft,22,38,painter
+120,paint,Paints & finishes,PU polish high-gloss wood,Asian PU / Sirca,sqft,180,320,painter
+121,paint,Paints & finishes,Melamine matte spray polish,MRF / ICA / Wudfin,sqft,75,110,painter
+122,paint,Paints & finishes,Anti-fungal exterior coat,Dr Fixit Raincoat,sqft,35,65,painter
+123,paint,Paints & finishes,Stencil decorative motif,Local skilled,nos,850,4500,painter
+124,paint,Paints & finishes,Chalkboard paint kids room,Asian / Berger,sqft,95,165,painter
+125,paint,Paints & finishes,Magnetic paint,Asian / Berger speciality,sqft,185,285,painter
+126,paint,Paints & finishes,Surface prep + sanding,Painter labour,sqft,8,14,painter
+127,paint,Paints & finishes,Wood coat termite primer,Asian / Sevenstar,litre,280,480,painter

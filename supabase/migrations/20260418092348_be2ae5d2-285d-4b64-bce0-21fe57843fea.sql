@@ -1,0 +1,1 @@
+UPDATE public.company_settings SET logo_url='https://wxycnzteeqnqanupauuh.supabase.co/storage/v1/object/public/company-assets/chirpeel-logo-square.png', logo_size='lg', phone='+91 95858 96733', whatsapp='+91 99948 28179', updated_at=now();
