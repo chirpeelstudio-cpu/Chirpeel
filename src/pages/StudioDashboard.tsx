@@ -8,7 +8,7 @@ import {
   Menu, LogOut, LayoutDashboard, BarChart3, Megaphone, Wallet, UserCog,
   Palette, Settings as SettingsIcon, MessageSquare, RefreshCw, UserPlus,
   Sliders, CreditCard, Info, GitBranch, Tags, UserCheck, Merge, Percent, Coins,
-  BookOpen, Receipt, FolderClosed, Hash, Mail, CheckSquare, ShieldAlert, Bell, Trash2, Database, ChevronLeft, ChevronRight,
+  BookOpen, Receipt, FolderClosed, Hash, Mail, CheckSquare, ShieldAlert, Bell, Trash2, Database, ChevronLeft, ChevronRight, Paintbrush
 } from "lucide-react";
 import { supabase } from "@/integrations/supabase/client";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
@@ -41,6 +41,7 @@ import VendorsModule from "@/components/admin/vendors/VendorsModule";
 import ProjectsModule from "@/components/admin/projects/ProjectsModule";
 import MarketingModule from "@/components/admin/marketing/MarketingModule";
 import TasksPage from "@/components/admin/tasks/TasksPage";
+import DesignModule from "@/components/admin/design/DesignModule";
 import CompanyDefaultsPanel from "@/components/admin/settings/CompanyDefaultsPanel";
 import PdfThemePanel from "@/components/admin/settings/PdfThemePanel";
 import TrashPanel from "@/components/admin/settings/TrashPanel";
@@ -73,6 +74,7 @@ import UsageOverviewPanel from "@/components/billing/UsageOverviewPanel";
 type NavKey =
   | "Home" | "Inbox"
   | "Overview" | "Pipeline" | "Leads" | "Quotations"
+  | "Design"
   | "Projects" | "Vendors" | "Finance"
   | "Marketing" | "Tasks" | "Automations"
   | "Team" | "Templates" | "Branding" | "Settings";
@@ -95,6 +97,7 @@ const NAV_GROUPS: NavGroup[] = [
       { icon: BarChart3, label: "Pipeline", slug: "pipeline" },
       { icon: Users, label: "Leads", slug: "leads" },
       { icon: FileText, label: "Quotations", slug: "quotations" },
+      { icon: Paintbrush, label: "Design", slug: "design" },
       { icon: Building2, label: "Projects", slug: "projects" },
       { icon: Hammer, label: "Vendors", slug: "vendors" },
       { icon: Wallet, label: "Finance", slug: "finance" },
@@ -578,6 +581,8 @@ export default function StudioDashboard() {
             onConsumedInitial={() => setPendingQuotation(null)}
           />
         );
+      case "Design":
+        return <DesignModule />;
       case "Projects":
         return <ProjectsModule />;
       case "Vendors":
