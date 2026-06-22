@@ -582,7 +582,7 @@ export default function StudioDashboard() {
           />
         );
       case "Design":
-        return <DesignModule />;
+        return <DesignModule leads={leads} />;
       case "Projects":
         return <ProjectsModule />;
       case "Vendors":
