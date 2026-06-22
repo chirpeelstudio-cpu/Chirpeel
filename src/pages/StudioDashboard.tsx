@@ -436,7 +436,7 @@ export default function StudioDashboard() {
     if (selectedMsg === id) setSelectedMsg(null);
   };
 
-  const isDemo = userEmail === "demostudio729203@wshu.net" || userEmail === "demo@chirpeel.test";
+  const isDemo = userEmail === "demostudio940133@web-library.net" || userEmail === "demo@chirpeel.test";
 
   const Sidebar = (
     <aside className="bg-muted/40 border-r border-border p-4 text-sm h-full flex flex-col overflow-y-auto">

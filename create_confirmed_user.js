@@ -90,7 +90,7 @@ async function run() {
         const htmlStr = Array.isArray(html) ? html.join("\n") : (typeof html === 'string' ? html : "");
         const textStr = Array.isArray(text) ? text.join("\n") : (typeof text === 'string' ? text : "");
         
-        const regex = /https:\/\/[^\s"'<>]*email\.auth\.lovable\.cloud\/c\/[^\s"'<>]+/gi;
+        const regex = /https:\/\/[^\s"'<>]*auth\.lovable[^\s"'<>]*\/c\/[^\s"'<>]+/gi;
         const matches = htmlStr.match(regex) || textStr.match(regex) || [];
         console.log(`Found ${matches.length} links in email.`);
         

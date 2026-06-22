@@ -81,10 +81,10 @@ const AdminLogin = () => {
 
   const handleDemoLogin = async () => {
     setLoading(true);
-    setEmail("demostudio729203@wshu.net");
+    setEmail("demostudio940133@web-library.net");
     setPassword("ChirpeelDemo@2026!");
     const { error } = await supabase.auth.signInWithPassword({
-      email: "demostudio729203@wshu.net",
+      email: "demostudio940133@web-library.net",
       password: "ChirpeelDemo@2026!",
     });
     setLoading(false);
@@ -179,7 +179,7 @@ const AdminLogin = () => {
           </Button>
           <div className="text-[11px] text-muted-foreground text-center leading-relaxed">
             Instantly explore the Studio dashboard.<br />
-            <span className="font-mono text-[10px]">demostudio729203@wshu.net</span> · <span className="font-mono text-[10px]">ChirpeelDemo@2026!</span>
+            <span className="font-mono text-[10px]">demostudio940133@web-library.net</span> · <span className="font-mono text-[10px]">ChirpeelDemo@2026!</span>
           </div>
         </div>
       </form>
